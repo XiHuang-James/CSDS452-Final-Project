@@ -1,0 +1,16 @@
+{
+  "n_rows": 1374327,
+  "ctr": 0.0034693344451502445,
+  "n_unique_items": 80,
+  "position_counts": {
+    "3": 458164,
+    "2": 458158,
+    "1": 458005
+  },
+  "policy_counts": {
+    "random": 1374327
+  },
+  "propensity_min": 0.0125,
+  "propensity_max": 0.0125,
+  "propensity_mean": 0.012500000000000006
+}
