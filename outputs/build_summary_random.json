@@ -1,0 +1,8 @@
+{
+  "behavior_policy": "random",
+  "raw_rows_seen": 1374327,
+  "clean_rows_written": 1374327,
+  "dropped_bad_numeric_rows": 0,
+  "dropped_missing_item_context_rows": 0,
+  "output_csv_path": "data/random_clean.csv"
+}

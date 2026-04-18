@@ -1,0 +1,8 @@
+{
+  "behavior_policy": "bts",
+  "raw_rows_seen": 12357200,
+  "clean_rows_written": 12357200,
+  "dropped_bad_numeric_rows": 0,
+  "dropped_missing_item_context_rows": 0,
+  "output_csv_path": "data/bts_clean.csv"
+}
